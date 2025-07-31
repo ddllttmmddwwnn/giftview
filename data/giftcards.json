@@ -10,7 +10,7 @@
   {
     "id": "gift-002",
     "name": "투썸 기프트카드핫",
-    "amount": 25000,
+    "amount": 250000 ,
     "brand": "투썸플레이스",
     "imageUrl": "/images/twosome.png",
     "status": "available"
