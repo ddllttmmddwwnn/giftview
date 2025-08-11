@@ -2,15 +2,15 @@
   {
     "id": "gift-001",
     "name": "스타벅스 기프트카드",
-    "amount": 10000,
+    "amount": 20000,
     "brand": "스타벅스",
     "imageUrl": "/images/starbucks.png",
     "status": "available"
   },
   {
     "id": "gift-002",
-    "name": "투썸 기프트카드",
-    "amount": 15000,
+    "name": "투썸 기프트카드핫",
+    "amount": 250000 ,
     "brand": "투썸플레이스",
     "imageUrl": "/images/twosome.png",
     "status": "available"
